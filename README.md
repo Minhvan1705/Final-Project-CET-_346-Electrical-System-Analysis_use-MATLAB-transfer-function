@@ -1,4 +1,4 @@
-# Final-Project-CET-_346-Electrical-System-Analysis_use-MATLAB-transfer-function
+# Final-Project-CET_346-Electrical-System-Analysis_use_MATLAB_transfer-function  ( Project_12)
 
 Frequency Response of a Circuit to an Arbitrary Periodic Signal
 Objectives:
